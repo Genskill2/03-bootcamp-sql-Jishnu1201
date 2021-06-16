@@ -12,7 +12,7 @@ INSERT INTO subjects (id, name) values (3, 'Technology');
 INSERT INTO subjects (id, name) values (4, 'Go');
 INSERT INTO subjects (id, name) values (5, 'Science Fiction');
 INSERT INTO subjects (id, name) values (6, 'Productivity');
-INSERT INTO subjects (id, name) values (7, 'Psycology');
+INSERT INTO subjects (id, name) values (7, 'Psychology');
 INSERT INTO subjects (id, name) values (8, 'Politics');
 INSERT INTO subjects (id, name) values (9, 'History');
 
